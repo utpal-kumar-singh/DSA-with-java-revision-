@@ -10,5 +10,6 @@ with explanations to help in understanding fundamental concepts.
 - *conditionals_and_loop
 - *Temperature
 - *Type_casting
-
+- *loops
+- *Largest
 ## 📂 Folder Structure:

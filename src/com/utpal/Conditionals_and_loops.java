@@ -1,5 +1,7 @@
 package com.utpal;
 
+import java.util.Scanner;
+
 public class Conditionals_and_loops {
 
     public static void main(String[] args) {
@@ -25,7 +27,24 @@ public class Conditionals_and_loops {
          * {do this}else
          * {above all the condition gives false the do this  one}
          * */
+    // use of  different   (bitwise) operator in if  else  condition:-( we  will do  it inn detail
+        Scanner in = new Scanner(System.in);
+
+        int  a = in.nextInt();  // both condition should  be  true  otherwise  it will execute  else part
+        int b  = in.nextInt();
+//        if (a==10  && b==20){
+//
+//            System.out.println("hello world");
+//        }else {
+//            System.out.println("hey");
+//        }
 
 
+        if (a==10  || b==20){
+
+            System.out.println("hello world");  //At  least one  of the condition should  be true otherwise it will execute  else part
+        }else {
+            System.out.println("hey");
+        }
     }
 }

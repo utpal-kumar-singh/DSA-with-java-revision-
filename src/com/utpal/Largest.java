@@ -28,5 +28,26 @@ public class Largest {
 //        int max= Math.max(c,Math.max(a,b));
 //        System.out.println(max);
 
+
+        // Another  way to  find  tje greatest of  them
+//        Scanner in = new Scanner(System.in);
+//        System.out.println("Enter two number for  comparing integers");
+//
+//        int a = in.nextInt();
+//        int b = in.nextInt();
+//        int max = Math.max(a,b);
+//        System.out.println("This  is  your greatest integer = "+max);
+
+
+        // for three integers:-
+
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter two number for  comparing integers");
+
+        int a = in.nextInt();
+        int b = in.nextInt();
+        int c = in.nextInt();
+        int max = Math.max(c,Math.max(a,b));
+        System.out.println("This  is  your greatest integer = "+max);
  }
 }
