@@ -12,4 +12,6 @@ with explanations to help in understanding fundamental concepts.
 - *Type_casting
 - *loops
 - *Largest
+- *Case_checker
+- *CountNums
 ## 📂 Folder Structure:
