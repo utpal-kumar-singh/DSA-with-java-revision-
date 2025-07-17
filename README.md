@@ -16,7 +16,7 @@ with explanations to help in understanding fundamental concepts.
 - *CountNums
 ## 📂 Folder Structure:
 DSA-with-java-revision/
-│── src/com/utpal/                # Main package
+│── src/com/utpal/                #
 │   ├── basics/                   # Basic Java concepts
 │   │   ├── AddTwoNumbers.java     # Program to add two numbers
 │   │   ├── ConditionalsAndLoop.java # Conditional statements & loops
@@ -26,7 +26,7 @@ DSA-with-java-revision/
 │   │   ├── Largest.java           # Find the largest number
 │   │   ├── CaseChecker.java       # Check case (upper/lower)
 │   │   ├── CountNums.java         # Count digits in a number
-│   │   └── Main.java              # Entry point for testing programs
+│   │   └── Switch.java              # Entry point for testing programs
 │
 │── .gitignore                     
 │── README.md                      
