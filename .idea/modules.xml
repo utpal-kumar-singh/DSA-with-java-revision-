@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/first_idea_program/first_idea_program.iml" filepath="$PROJECT_DIR$/first_idea_program/first_idea_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java revision.iml" filepath="$PROJECT_DIR$/.idea/java revision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_dsa/java_dsa.iml" filepath="$PROJECT_DIR$/java_dsa/java_dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first_idea_program/out/out.iml" filepath="$PROJECT_DIR$/first_idea_program/out/out.iml" />
+    </modules>
+  </component>
+</project>
